@@ -87,3 +87,5 @@ Diogo Carvalho - Portfolio Comming Soon - [Linkedin](www.linkedin.com/in/diogo-c
 -   [Font Awesome](https://fontawesome.com)
 -   [Best-README-Template](https://github.com/othneildrew/Best-README-Template)
 -   [Github Pages](https://pages.github.com/)
+-   [Unspash](https://unsplash.com/)
+-   [Random User Generator](https://randomuser.me/)
