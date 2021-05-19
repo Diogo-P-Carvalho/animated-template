@@ -42,6 +42,7 @@ Using the Creative Tim Tailwind template, adding animate on scroll functionality
 ### Built With
 
 -   HTML5
+-   Javascript
 -   Creative Tim Tailwind template
 -   AOS - Animated On Scroll Library
 
