@@ -37,12 +37,14 @@ Using the Creative Tim Tailwind template, adding animate on scroll functionality
 
 ### Objectives
 
--   Adding animations on scroll to the [Creative Tim Tailwind template](https://www.creative-tim.com/learning-lab/tailwind-starter-kit/presentation)
+-   Adding animations on scroll to the [Creative Tim Tailwind template](https://www.creative-tim.com/learning-lab/tailwind-starter-kit/presentation) using [AOS - Animated On Scroll Library](https://michalsnik.github.io/aos/)
 
 ### Built With
 
 -   HTML5
+-   Javascript
 -   Creative Tim Tailwind template
+-   AOS - Animated On Scroll Library
 
 <!-- GETTING STARTED -->
 
@@ -89,3 +91,4 @@ Diogo Carvalho - Portfolio Comming Soon - [Linkedin](www.linkedin.com/in/diogo-c
 -   [Github Pages](https://pages.github.com/)
 -   [Unspash](https://unsplash.com/)
 -   [Random User Generator](https://randomuser.me/)
+-   [AOS - Animated On Scroll Library](https://michalsnik.github.io/aos/)
